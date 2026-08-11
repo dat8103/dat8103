@@ -18,7 +18,7 @@ Mở link demo là chạy được ngay, kể cả trên điện thoại. Không
 | [`dms-endpoint-agent`](https://github.com/dat8103/dms-endpoint-agent) | Agent chống thất thoát dữ liệu, C++ đa nền tảng — mất mạng không được biến thành mở toang | [▶](https://dat8103.github.io/dms-endpoint-agent/) |
 | [`eduai-platform`](https://github.com/dat8103/eduai-platform) | SaaS đa tenant, cô lập dữ liệu bằng RLS ở tầng database, BYOK qua Vault | [▶](https://dat8103.github.io/eduai-platform/) |
 | [`koisan-ads-ai`](https://github.com/dat8103/koisan-ads-ai) | AI agent tool-use: model **phải gọi công cụ lấy số** trước khi đề xuất ngân sách | [▶](https://dat8103.github.io/koisan-ads-ai/) |
-| [`kvil-erp`](https://github.com/dat8103/kvil-erp) | Gom batch sản xuất, nổ định mức, xếp lịch chuyền theo năng lực hữu hạn | [▶](https://dat8103.github.io/kvil-erp/) |
+| [`kvil--erp`](https://github.com/dat8103/kvil--erp) | Gom batch sản xuất, nổ định mức, xếp lịch chuyền theo năng lực hữu hạn | [▶](https://dat8103.github.io/kvil--erp/) |
 | [`mini-market-pos`](https://github.com/dat8103/mini-market-pos) | POS chạy offline hoàn toàn: công nợ, đơn vị quy đổi, in bill ESC/POS | [▶](https://dat8103.github.io/mini-market-pos/) |
 | [`gara-network`](https://github.com/dat8103/gara-network) | Chọn garage đối tác bằng chấm điểm nhiều tiêu chí, quyết toán giữ lại bảo hành | [▶](https://dat8103.github.io/gara-network/) |
 | [`vmu-grad-management`](https://github.com/dat8103/vmu-grad-management) | Phân quyền module × hành động × phạm vi, thù lao giảng dạy có vách thuế | [▶](https://dat8103.github.io/vmu-grad-management/) |
